@@ -1,7 +1,7 @@
 # two-servers
 a basic node js example implementing two servers, based on class demo / example
 
-GWU Full Stack web development bootcamp
+GWU Full Stack web development program
 
     a straightforward node js example running 2 servers
 
